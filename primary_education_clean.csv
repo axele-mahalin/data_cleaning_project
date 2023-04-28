@@ -1,0 +1,39 @@
+,Countries and areas,Region,Income Group,Total,Residence Rural,Residence Urban,Wealth quintile Poorest,Wealth quintile Richest,Data source,Time period
+3,Bangladesh,SA,Lower middle income (LM),0.34,0.3,0.49,0.07,0.75,Multiple Indicator Cluster Survey,2019
+4,Barbados,LAC,High income (H),0.63,0.54,0.68,0.09,0.97,Multiple Indicator Cluster Survey,2012
+8,Brazil,LAC,Upper middle income (UM),0.82,0.49,0.88,0.86,1.0,"Brazil Continuous National Household Sample Survey (Continuous PNAD) 2018, IBGE.",2018
+9,Bulgaria,ECA,Upper middle income (UM),0.73,0.65,0.77,0.24,0.98,Bulgarian Longitudinal Inclusive Society Survey (BLISS) 2013,2013
+10,Burkina Faso,SSA,Low income (L),0.01,0.01,0.03,0.01,0.04,Demographic and Health Survey,2010
+11,Cameroon,SSA,Lower middle income (LM),0.04,0.0,0.09,0.0,0.22,Multiple Indicator Cluster Survey,2014
+13,Chad,SSA,Low income (L),0.02,0.01,0.08,0.0,0.09,Multiple Indicator Cluster Survey,2019
+14,Chile,LAC,High income (H),0.86,0.69,0.88,0.71,0.99,CASEN,2017
+17,Costa Rica,LAC,Upper middle income (UM),0.7,0.61,0.74,0.44,0.99,Multiple Indicator Cluster Survey,2018
+18,Côte d'Ivoire,SSA,Lower middle income (LM),0.02,0.0,0.05,0.0,0.13,Multiple Indicator Cluster Survey,2016
+19,Cuba,LAC,Upper middle income (UM),0.05,0.02,0.06,0.16,0.0,Multiple Indicator Cluster Survey,2019
+21,Djibouti,SSA,Lower middle income (LM),0.04,0.01,0.08,0.01,0.32,Enquête Djiboutienne Auprès des Ménages pour les Indicateurs Sociaux 2012 - Données pour utilisation publique,2012
+22,Dominican Republic,LAC,Upper middle income (UM),0.24,0.09,0.29,0.0,0.78,Multiple Indicator Cluster Survey,2014
+25,Gambia,SSA,Low income (L),0.64,0.46,0.74,0.25,0.93,Multiple Indicator Cluster Survey,2018
+26,Georgia,ECA,Upper middle income (UM),0.84,0.7,0.93,0.46,0.99,Multiple Indicator Cluster Survey,2018
+32,Indonesia,EAP,Lower middle income (LM),0.17,0.09,0.24,0.05,0.44,SUSENAS,2019
+33,Iraq,MENA,Upper middle income (UM),0.46,0.33,0.53,0.14,0.83,Multiple Indicator Cluster Survey,2018
+35,Japan,EAP,High income (H),0.75,0.81,0.74,0.62,0.85,The Japan Household Panel Survey,2018
+40,Lao People's Democratic Republic,EAP,Lower middle income (LM),0.01,0.01,0.04,0.0,0.05,Multiple Indicator Cluster Survey,2017
+41,Lesotho,SSA,Lower middle income (LM),0.3,0.21,0.5,0.05,0.68,Multiple Indicator Cluster Survey,2018
+44,Mali,SSA,Low income (L),0.05,0.03,0.13,0.0,0.21,Multiple Indicator Cluster Survey,2015
+45,Mauritania,SSA,Lower middle income (LM),0.03,0.01,0.06,0.0,0.11,Multiple Indicator Cluster Survey,2015
+47,Mongolia,EAP,Lower middle income (LM),0.37,0.13,0.5,0.02,0.94,Multiple Indicator Cluster Survey,2018
+50,Namibia,SSA,Upper middle income (UM),0.06,0.01,0.14,0.0,0.32,Demographic and Health Survey,2013
+55,Pakistan,SA,Lower middle income (LM),0.08,0.04,0.18,0.0,0.45,Demographic and Health Survey,2017
+56,Panama,LAC,High income (H),0.27,0.08,0.4,0.02,0.95,Multiple Indicator Cluster Survey,2013
+60,Sao Tome and Principe,SSA,Lower middle income (LM),0.44,0.37,0.47,0.18,0.75,Multiple Indicator Cluster Survey,2019
+61,Senegal,SSA,Lower middle income (LM),0.05,0.02,0.09,0.01,0.2,Demographic and Health Survey,2017
+62,Serbia,ECA,Upper middle income (UM),0.95,0.94,0.96,0.71,1.0,Multiple Indicator Cluster Survey,2019
+63,Sierra Leone,SSA,Low income (L),0.12,0.03,0.24,0.0,0.38,Multiple Indicator Cluster Survey,2017
+66,South Sudan,SSA,Low income (L),0.0,0.0,0.01,0.0,0.02,Multiple Indicator Cluster Survey,2010
+67,Sri Lanka,SA,Upper middle income (UM),0.67,0.64,0.85,0.7,0.99,STEP Skills Measurement Household Survey 2012 (Wave 1),2012
+68,Sudan,SSA,Lower middle income (LM),0.03,0.01,0.08,0.0,0.17,Multiple Indicator Cluster Survey,2014
+69,Suriname,LAC,Upper middle income (UM),0.49,0.35,0.56,0.21,0.94,Multiple Indicator Cluster Survey,2018
+73,Togo,SSA,Low income (L),0.2,0.06,0.47,0.0,0.78,Multiple Indicator Cluster Survey,2017
+74,Tonga,EAP,Upper middle income (UM),0.9,0.89,0.94,0.82,0.94,Multiple Indicator Cluster Survey,2019
+75,Trinidad and Tobago,LAC,High income (H),0.42,0.32,0.51,0.02,0.97,Multiple Indicator Cluster Survey,2011
+83,Uzbekistan,ECA,Lower middle income (LM),0.19,0.16,0.26,0.0,0.69,UNICEF Nutrition Survey 2017,2017
